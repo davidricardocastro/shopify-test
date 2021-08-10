@@ -16,6 +16,11 @@
         "show_vendor": false
       }
     },
+    "test": {
+      "type": "test",
+      "settings": { 
+      }
+    },
     "162857841593505364": {
       "type": "image-banner",
       "blocks": {
