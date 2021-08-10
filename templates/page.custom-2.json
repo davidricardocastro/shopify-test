@@ -1,20 +1,19 @@
 {
-    "sections": 
-    {
-        "main": {
-            "type": "main-page",
-            "settings": {
-            }
-        },
-        "test": {
-            "type": "test",
-            "settings": { 
-            }
-        }
+  "sections": {
+    "main": {
+      "type": "main-page",
+      "settings": {
+      }
     },
-    "order": [
-        "main",        
-        "test"
-    ]
+    "test": {
+      "type": "test",
+      "settings": {
+        "text_paragraph": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat."
+      }
+    }
+  },
+  "order": [
+    "main",
+    "test"
+  ]
 }
-  
