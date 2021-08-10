@@ -55,11 +55,47 @@
         "stack_images_on_mobile": true,
         "adapt_height_first_image": false
       }
+    },
+    "1628578614d882a34d": {
+      "type": "rich-text",
+      "blocks": {
+        "1628578614d882a34d-0": {
+          "type": "heading",
+          "settings": {
+            "heading": "Talk about your brand",
+            "heading_size": "h1"
+          }
+        },
+        "1628578614d882a34d-1": {
+          "type": "text",
+          "settings": {
+            "text": "<p>Share information about your brand with your customers. Describe a product, make announcements, or welcome customers to your store.<\/p>"
+          }
+        },
+        "1628578614d882a34d-2": {
+          "type": "button",
+          "settings": {
+            "button_label": "Button label",
+            "button_link": "",
+            "button_style_secondary": false
+          }
+        }
+      },
+      "block_order": [
+        "1628578614d882a34d-0",
+        "1628578614d882a34d-1",
+        "1628578614d882a34d-2"
+      ],
+      "settings": {
+        "color_scheme": "background-2",
+        "full_width": true
+      }
     }
   },
   "order": [
     "main",
     "recommendations",
-    "162857841593505364"
+    "162857841593505364",
+    "1628578614d882a34d"
   ]
 }
