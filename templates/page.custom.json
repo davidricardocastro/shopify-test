@@ -18,7 +18,8 @@
     },
     "test": {
       "type": "test",
-      "settings": { 
+      "settings": {
+        "text_paragraph": "Testing testing"
       }
     },
     "162857841593505364": {
